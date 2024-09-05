@@ -686,7 +686,22 @@ section {
     color: var(--primary_color);
 }
 
-
+/* website work links */
+.website-links h4 {
+    font-size: 20px;
+    color: #000;
+}
+.website-links ul {
+    list-style: disc;
+    padding-left: 30px;
+}
+.website-links ul li a {
+    font-size: 14px;
+    color: #404042;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    margin-bottom: 8px;
+}
 /* contact us  */
 .contact-us h4, .contact-us a   {
     color: #000;
